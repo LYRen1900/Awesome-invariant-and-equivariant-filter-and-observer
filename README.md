@@ -1,5 +1,7 @@
-# Awesome-invariant-and-equivariant-filter-and-observer
-Paper list for invariant and equivariant filter and observer. Work-in-progress.
+# awesome invariant-and-equivariant filter-and-observer
+
+Paper list for invariant and equivariant filter and observer. Work-in-progress. 
+
 Feel free to suggest relevant papers in the following format. 
 
 ```markdown
@@ -14,11 +16,11 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
 ### [Invariant Observer](#content)
 
 1. **Nonlinear State Estimation and Modeling of a Helicopter UAV ** 
-
+   
    Martin Barczyk,  PhD thesis, 2012
-
+   
    Note: **employing** a rotation matrix representation for the state manifold to obtain designs amenable to global stability analysis, **obtaining** a direct nonlinear design for gains of the AHRS observer, **modifying** the previously-proposed Invariant EKF systematic method for computing gains, and **culminating** in simulation and experimental validation of the observers.  
-
+   
 2. **Features of Invariant Extended Kalman Filter Applied to Unmanned Aerial Vehicle Navigation  **
 
    Nak Yong Ko, Wonkeun Youn, In Ho Choi, Gyeongsub Song and Tae Sik Kim. sensors 2018. [paper][https://www.mdpi.com/1424-8220/18/9/2855]
@@ -52,7 +54,7 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
 
 3.  **Deep learning, Inertial Measurements Units, and Odometry: Some Modern Prototyping Techniques for Navigation Based on Multi-Sensor Fusion** 
 
-    Martin Brossard  , PhD thesis, 2020 [paper](https://pastel.archives-ouvertes.fr/tel-03262132v1)
+   Martin Brossard  , PhD thesis, 2020 [paper](https://pastel.archives-ouvertes.fr/tel-03262132v1)
 
 4. **Invariant smoothing on Lie groups**
 
@@ -119,36 +121,36 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
    Robert Mahony, Tarek Hamel. CDC 2017
 
 2. **Attitude Observation for Second Order Attitude Kinematics**  
-   Yonhon Ng, Pieter van Goor, Robert Mahony, Tarek Hamel. CDC 2019 [paper](https://arxiv.org/abs/2104.06596)  
-     Note: 
+     Yonhon Ng, Pieter van Goor, Robert Mahony, Tarek Hamel. CDC 2019 [paper](https://arxiv.org/abs/2104.06596)  
+       Note: 
 
 3. **Equivariant Systems Theory and Observer Design for Second Order Kinematic Systems on Matrix Lie Groups**  
-   Yonhon Ng, Pieter van Goor, Tarek Hamel, Robert Mahony.  CDC 2020 [paper](https://arxiv.org/abs/2105.04797)  
-     Note: 
+     Yonhon Ng, Pieter van Goor, Tarek Hamel, Robert Mahony.  CDC 2020 [paper](https://arxiv.org/abs/2105.04797)  
+       Note: 
 
 4. **A Geometric Observer Design for Visual Localization and Mapping**
 
-   Pieter van Goor, Robert Mahony, Tarek Hamel, Jochen Trumpf. CDC 2019 [paper][https://arxiv.org/pdf/1904.02452.pdf]
+     Pieter van Goor, Robert Mahony, Tarek Hamel, Jochen Trumpf. CDC 2019 [paper][https://arxiv.org/pdf/1904.02452.pdf]
 
 5. **An Observer Design for Visual Simultaneous Localisation and Mapping with Output Equivariance**
 
-   Pieter van Goor, Robert Mahony, Tarek Hamel, Jochen Trumpf.  IFAC 2020 [paper][https://arxiv.org/abs/2005.14347]
+     Pieter van Goor, Robert Mahony, Tarek Hamel, Jochen Trumpf.  IFAC 2020 [paper][https://arxiv.org/abs/2005.14347]
 
 6. **Constructive Observer Design for Visual Simultaneous Localisation and Mapping**
 
-   Pieter van Goor, Robert Mahony, Tarek Hamel, Jochen Trumpf.  Submitted to Automatica  [paper][https://arxiv.org/abs/2006.05053]
+     Pieter van Goor, Robert Mahony, Tarek Hamel, Jochen Trumpf.  Submitted to Automatica  [paper][https://arxiv.org/abs/2006.05053]
 
 7. **Equivariant Filter (EqF): A General Filter Design for Systems on Homogeneous Spaces**  
-   Pieter van Goor, Tarek Hamel and Robert Mahony   CDC 2020  [paper][https://ieeexplore.ieee.org/abstract/document/9303813] [presentation][https://pvangoor.github.io/talks/2021/05/07/cdc2020_talk.html] [YouTube][https://www.youtube.com/watch?v=AwlDJU_3nuc]
+     Pieter van Goor, Tarek Hamel and Robert Mahony   CDC 2020  [paper][https://ieeexplore.ieee.org/abstract/document/9303813] [presentation][https://pvangoor.github.io/talks/2021/05/07/cdc2020_talk.html] [YouTube][https://www.youtube.com/watch?v=AwlDJU_3nuc]
 
 8. **EQUIVARIANT FILTER (EqF)  **  
-   Pieter van Goor, Tarek Hamel and Robert Mahony [paper](https://arxiv.org/abs/2010.14666)
+     Pieter van Goor, Tarek Hamel and Robert Mahony [paper](https://arxiv.org/abs/2010.14666)
 
-   Note: In cases where the system output is also equivariant the EqF leads to linearised dynamics with a constant output matrix.  
+     Note: In cases where the system output is also equivariant the EqF leads to linearised dynamics with a constant output matrix.  
 
 9. **Equivariant Visual Odometry in the Wild ** 
 
-   Robert Mahony, Pieter van Goor, Mina Henein, Ryan Pike, Jun Zhang and Yonhon Ng. CDC 2020
+     Robert Mahony, Pieter van Goor, Mina Henein, Ryan Pike, Jun Zhang and Yonhon Ng. CDC 2020
 
 10. **An Equivariant Filter for Visual Inertial Odometry**  
      Pieter van Goor, Robert Mahony ICRA 2021 [paper](https://arxiv.org/abs/2104.03532) [Code][https://github.com/pvangoor/eqf_vio] [presentation][https://pvangoor.github.io/talks/2021/03/17/ardupilot_vio.html] [YouTube][https://www.youtube.com/watch?v=vLZdBKRjRi4]
@@ -157,7 +159,6 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
 
 
 ### [Application](#content)
-
 #### Inertial-integrated navigation
 
 1. **Contact-Aided Invariant Extended Kalman Filtering for Legged Robot State Estimation ** 
@@ -184,21 +185,21 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
 
 1. **Practical Considerations and Extensions of the Invariant Extended Kalman Filtering Framework**
 
-   Jonathan Arsenault. Master thesis, 2019.  
+    Jonathan Arsenault. Master thesis, 2019.  
 
-   Note：Invariant Filtering in Continuous Time  and Discrete Time.
+    Note：Invariant Filtering in Continuous Time  and Discrete Time.
 
 2. **Toward Invariant Visual-Inertial State Estimation using Information Sparsification  **
 
-   Shih-Chieh (Jerry) Hsiung. Master thesis, 2018. 
+    Shih-Chieh (Jerry) Hsiung. Master thesis, 2018. 
 
 3. **Associating Uncertainty to Extended Poses for on Lie Group IMU Preintegration with Rotating Earth  **
 
-   M. Brossard, A. Barrau, P. Chauchat, S. Bonnabel. IEEE Transactions on Robotics 2021. [paper][https://arxiv.org/abs/2007.14097v2]
+    M. Brossard, A. Barrau, P. Chauchat, S. Bonnabel. IEEE Transactions on Robotics 2021. [paper][https://arxiv.org/abs/2007.14097v2]
 
 4. **A Mathematical Framework for IMU Error Propagation with Applications to Preintegration  **
 
-   Martin Brossard, Axel Barrau, Paul Chauchat, and Silvere Bonnabel. ICRA 2020. [paper][https://ieeexplore.ieee.org/document/9197492]  
+    Martin Brossard, Axel Barrau, Paul Chauchat, and Silvere Bonnabel. ICRA 2020. [paper][https://ieeexplore.ieee.org/document/9197492]  
 
 5. **Consistent EKF-based visual-inertial odometry on matrix Lie group  **
 
@@ -211,4 +212,6 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
 9. **Consistent Right-Invariant Fixed-Lag Smoother with Application to Visual Inertial SLAM  **
 
 10. 
+
+
 
