@@ -15,21 +15,21 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
 
 ### [Invariant Observer](#content)
 
-1. **Nonlinear State Estimation and Modeling of a Helicopter UAV ** 
+1. **Nonlinear State Estimation and Modeling of a Helicopter UAV** 
    
    Martin Barczyk,  PhD thesis, 2012
    
    Note: **employing** a rotation matrix representation for the state manifold to obtain designs amenable to global stability analysis, **obtaining** a direct nonlinear design for gains of the AHRS observer, **modifying** the previously-proposed Invariant EKF systematic method for computing gains, and **culminating** in simulation and experimental validation of the observers.  
    
-2. **Features of Invariant Extended Kalman Filter Applied to Unmanned Aerial Vehicle Navigation  **
+2. **Features of Invariant Extended Kalman Filter Applied to Unmanned Aerial Vehicle Navigation**
 
    Nak Yong Ko, Wonkeun Youn, In Ho Choi, Gyeongsub Song and Tae Sik Kim. sensors 2018. [paper][https://www.mdpi.com/1424-8220/18/9/2855]
 
-3. **Optimal Invariant Observers Theory for Nonlinear State Estimation  **
+3. **Optimal Invariant Observers Theory for Nonlinear State Estimation**
 
    Jean-Philippe Condomines,  Cédric Seren,  Gautier Hattenberger. [paper][http://recherche.enac.fr/~jean-philippe.condomines/wp-content/uploads/2015/12/IUKF16_book_chapter.pdf]
 
-4. **Nonlinear Kalman Filtering for Multi-Sensor Navigation of Unmanned Aerial Vehicles  **
+4. **Nonlinear Kalman Filtering for Multi-Sensor Navigation of Unmanned Aerial Vehicles**
 
    Jean-Philippe Condomines, Book 2018.
 
@@ -72,7 +72,7 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
 
    M. Lavoie, J. Arsenault, and J. R. Forbes. CDC2019 [paper][https://ieeexplore.ieee.org/document/9029289/]
 
-7. **The Invariant Rauch-Tung-Striebel Smoother ** 
+7. **The Invariant Rauch-Tung-Striebel Smoother** 
 
    Niels van der Laan , Mitchell Cohen , Jonathan Arsenault , and James Richard Forbes.   IEEE Robotics and automation letters. 2020 [paper][https://ieeexplore.ieee.org/document/9126191]
 
@@ -84,7 +84,7 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
 
 ### [Theory](#content)
 
-1. **Kalman filtering with a class of geometric state equality constraints **
+1. **Kalman filtering with a class of geometric state equality constraints**
 
    P. Chauchat, A. Barrau, S. Bonnabel.   CDC 2017. [paper][https://ieeexplore.ieee.org/document/8264033]
 
@@ -92,7 +92,7 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
 
    Axel Barrau, Silvère Bonnabel. IEEE Transactions on Automatic Control 2020. [paper][https://ieeexplore.ieee.org/document/8765615]
 
-3. **Linear observed systems on groups  **
+3. **Linear observed systems on groups**
 
    Axel Barrau, Silvère Bonnabel. Systems and Control Letters  2019. [paper][https://www.sciencedirect.com/science/article/pii/S0167691119300805]
 
@@ -116,7 +116,7 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
 
 ### [Equivariant Filter](#content)
 
-1. **A Geometric Nonlinear Observer for Simultaneous Localisation and Mapping **
+1. **A Geometric Nonlinear Observer for Simultaneous Localisation and Mapping**
 
    Robert Mahony, Tarek Hamel. CDC 2017
 
@@ -143,12 +143,12 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
 7. **Equivariant Filter (EqF): A General Filter Design for Systems on Homogeneous Spaces**  
      Pieter van Goor, Tarek Hamel and Robert Mahony   CDC 2020  [paper][https://ieeexplore.ieee.org/abstract/document/9303813] [presentation][https://pvangoor.github.io/talks/2021/05/07/cdc2020_talk.html] [YouTube][https://www.youtube.com/watch?v=AwlDJU_3nuc]
 
-8. **EQUIVARIANT FILTER (EqF)  **  
+8. **EQUIVARIANT FILTER (EqF)**  
      Pieter van Goor, Tarek Hamel and Robert Mahony [paper](https://arxiv.org/abs/2010.14666)
 
      Note: In cases where the system output is also equivariant the EqF leads to linearised dynamics with a constant output matrix.  
 
-9. **Equivariant Visual Odometry in the Wild ** 
+9. **Equivariant Visual Odometry in the Wild** 
 
      Robert Mahony, Pieter van Goor, Mina Henein, Ryan Pike, Jun Zhang and Yonhon Ng. CDC 2020
 
@@ -161,15 +161,15 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
 ### [Application](#content)
 #### Inertial-integrated navigation
 
-1. **Contact-Aided Invariant Extended Kalman Filtering for Legged Robot State Estimation ** 
+1. **Contact-Aided Invariant Extended Kalman Filtering for Legged Robot State Estimation** 
 
    [code][GitHub - UMich-BipedLab/Contact-Aided-Invariant-EKF: Example code for contact-aided invariant extended Kalman filtering.]
 
-2. **Contact-Aided Invariant Extended Kalman Filtering for Robot State Estimation  **
+2. **Contact-Aided Invariant Extended Kalman Filtering for Robot State Estimation**
 
    Ross Hartley , Maani Ghaffari , Ryan M Eustice and Jessy W Grizzle. IJRR 2020.  
 
-3. **$SE_2(3)$ based Extended Kalman Filtering and Smoothing Framework for Inertial-Integrated Navigation ** 
+3. **$SE_2(3)$ based Extended Kalman Filtering and Smoothing Framework for Inertial-Integrated Navigation** 
 
    Yarong Luo, Chi Guo, Jingnan Liu. [paper][https://arxiv.org/abs/2102.12897]
 
@@ -177,7 +177,7 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
 
    Yarong Luo, Chi Guo, Jingnan Liu. [paper][https://arxiv.org/abs/2103.14873]
 
-5. **Legged Robot State Estimation in Slippery Environments Using Invariant Extended Kalman Filter with Velocity Update **
+5. **Legged Robot State Estimation in Slippery Environments Using Invariant Extended Kalman Filter with Velocity Update**
 
    Sangli Teng, Mark Wilfried Mueller, Koushil Sreenath. [paper][https://arxiv.org/abs/2104.04238]
 
@@ -189,27 +189,27 @@ Axel Barrau, PhD thesis, 2015 [paper](https://pastel.archives-ouvertes.fr/tel-01
 
     Note：Invariant Filtering in Continuous Time  and Discrete Time.
 
-2. **Toward Invariant Visual-Inertial State Estimation using Information Sparsification  **
+2. **Toward Invariant Visual-Inertial State Estimation using Information Sparsification**
 
     Shih-Chieh (Jerry) Hsiung. Master thesis, 2018. 
 
-3. **Associating Uncertainty to Extended Poses for on Lie Group IMU Preintegration with Rotating Earth  **
+3. **Associating Uncertainty to Extended Poses for on Lie Group IMU Preintegration with Rotating Earth**
 
     M. Brossard, A. Barrau, P. Chauchat, S. Bonnabel. IEEE Transactions on Robotics 2021. [paper][https://arxiv.org/abs/2007.14097v2]
 
-4. **A Mathematical Framework for IMU Error Propagation with Applications to Preintegration  **
+4. **A Mathematical Framework for IMU Error Propagation with Applications to Preintegration**
 
     Martin Brossard, Axel Barrau, Paul Chauchat, and Silvere Bonnabel. ICRA 2020. [paper][https://ieeexplore.ieee.org/document/9197492]  
 
-5. **Consistent EKF-based visual-inertial odometry on matrix Lie group  **
+5. **Consistent EKF-based visual-inertial odometry on matrix Lie group**
 
-6. **Consistent EKF-based visual-inertial navigation using points and lines  **
+6. **Consistent EKF-based visual-inertial navigation using points and lines**
 
-7. **Observability analysis and consistency improvements for visual-inertial odometry on the matrix Lie group of extended poses  **
+7. **Observability analysis and consistency improvements for visual-inertial odometry on the matrix Lie group of extended poses**
 
-8. **Observability Analysis of IMU Intrinsic Parameters in Stereo Visual-Inertial Odometry  **
+8. **Observability Analysis of IMU Intrinsic Parameters in Stereo Visual-Inertial Odometry**
 
-9. **Consistent Right-Invariant Fixed-Lag Smoother with Application to Visual Inertial SLAM  **
+9. **Consistent Right-Invariant Fixed-Lag Smoother with Application to Visual Inertial SLAM**
 
 10. 
 
